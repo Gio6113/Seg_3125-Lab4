@@ -16,12 +16,14 @@ h1{
     font-weight: 700;
     color: rgb(53, 52, 52);
     margin: 3%;
-    width:120%
+    margin-top: 10%;
+    width:100%
 }
 
 .title{
     padding-left: 3em;
     font-weight: 500;
+    margin-top: 0%;
 }
 
 .expert{
@@ -58,6 +60,30 @@ h5{
     background-size: 100%;
     background-repeat: no-repeat;
     margin: 5%;
-    height: 15em;
     margin:auto;
+}
+
+.styledbtn{
+    margin-left: 40%;
+    margin-top: 40%;
+}
+
+
+
+.table{
+    font-size: 20 !important;
+}
+
+td{
+    font-size: 2.5vw;
+}
+
+h2{
+    font-size: 4vw;
+    color: rgb(55, 55, 165) ;
+    font-weight: 700;
+}
+
+.address{
+    font-size: 4vw;
 }
