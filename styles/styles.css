@@ -1,0 +1,29 @@
+td{
+    font-size: 25px;
+}
+p{
+    font-size: 20px;
+    padding-left: 1.5em;
+}
+.btn{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h1{
+    font-family: 'Mate SC', sans-serif;
+    font-size: 5vw;
+    font-weight: 700;
+    color: rgb(53, 52, 52);
+    margin: 3%;
+}
+
+.title{
+    padding-left: 3em;
+}
+
+.expert{
+    border-radius: 50%;
+    width: 44%;
+    height: 100%;
+}
